@@ -1184,9 +1184,11 @@ button:focus {
   margin-bottom: 45px;
 }
 
+
 .contact-us p span {
   color: #61D2B4;
   padding-left: 10px;
+    font-size: 30px;
 }
 
 #contact {
